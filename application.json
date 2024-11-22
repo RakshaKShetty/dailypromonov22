@@ -32,6 +32,10 @@
     {
       "id": "Public.a",
       "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ]
 }
